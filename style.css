@@ -99,7 +99,7 @@ header {
 /* MENU RESPONSIVO*/
 
 
-@media screen and (max-width:500px){
+@media screen and (max-width:650px){
 
 .nav-bar {
     padding: 1.5rem 4rem;
@@ -133,7 +133,8 @@ header {
     background-color: transparent;
     border: 0px;
     cursor: pointer;
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-right: -40px;
 }
 
 .mobile-menu ul {
@@ -289,7 +290,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-position: center;
 }
 .containerproje .slide-container:nth-child(2) .slide {
-    background-image: url(./wpp.svg);
+    background-image: url(./wpp.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
